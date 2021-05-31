@@ -33,6 +33,7 @@
    <div>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt=""/>&nbsp;
     <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt=""/>&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt=""/>&nbsp;
     <img src="https://img.shields.io/badge/Docker-008FCC?style=flat&logo=docker&logoColor=white" alt=""/>&nbsp;
     <img src="https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white" alt=""/>&nbsp;
   </div>
@@ -41,7 +42,6 @@
 #### 🤔 Things I'd like to try in the future:
 
   <div>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt=""/>&nbsp;
     <img src="https://img.shields.io/badge/Firebase%20-%23039BE5.svg?&style=flat&logo=firebase" alt=""/>&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt=""/>&nbsp;
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql" alt=""/>&nbsp;
@@ -56,7 +56,7 @@
   <p>
   <a href="https://github.com/Alschn">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alschn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alschn&layout=compact&langs_count=5&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alschn&layout=compact&langs_count=8&theme=algolia"/>
   </a>
   </p>
 
@@ -66,9 +66,9 @@
 
   <div>
     <a href="https://github.com/Alschn/DoNotExpire">DoNotExpire</a><br>
+    <a href="https://github.com/Alschn/WebPlayer">Web Player</a><br>
     <a href="https://github.com/Alschn/MusicRooms">Music Rooms</a><br>
     <a href="https://github.com/Alschn/statsify">statsify</a><br>
-    <a href="https://github.com/Alschn/CoreRepetition">CoreRepetition</a>
   </div>
   
 </div>
